@@ -1,4 +1,2 @@
-ru/stqa/pft/sandbox/SquareTests.java
- ru.stqa.pft.sandbox.SquareTests
 ru/stqa/pft/sandbox/TestMail.java
- ru.stqa.pft.sandbox.TestMail
+ TestMail

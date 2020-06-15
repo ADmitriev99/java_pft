@@ -1,4 +1,4 @@
-package ru.stqa.pft.sandbox;
+
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
