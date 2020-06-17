@@ -6,7 +6,7 @@ public class Task1_2 {
     }
     public static int sumDouble(int a, int b){
         if (a==b)
-            return a*2*2;
+            return a*4;
         else
             return a+b;
     }
